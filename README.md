@@ -1,3 +1,5 @@
+Assistance and aid to complete project was provided by google searches, slack, MDN, youtube videos, etc. -Tubxyoob Vang
+
 # 03 JavaScript: Password Generator
 
 ## Your Task
@@ -98,3 +100,5 @@ You are required to submit the following for review:
 
 - - -
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+
